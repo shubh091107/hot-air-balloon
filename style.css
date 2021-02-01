@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: double;
+  border-collapse: separate;
+   margin-left: 450px;
+   margin-top: 150px;
+}
